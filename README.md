@@ -1,1 +1,2 @@
 # MulticlassDeepLabV3-
+For my special topics class I have decided to base my work off of this github repository https://github.com/precision-sustainable-ag/OpenCV_Competition2021 from the benchbot research team here at North Carolina State University. I shall train my adapted multi-class DeepLabv3+ model on the same data as the research team did. The training dataset I used can be found here https://vision.eng.au.dk/?download=/data/oakd/2021/train.zip 
